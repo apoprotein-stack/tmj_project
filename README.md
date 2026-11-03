@@ -7,7 +7,17 @@
 - `assets/theme1/`：顳顎關節位置、關節盤正常與移位、張口運動、常見問題、症狀來源。
 - `assets/theme2/`：微創內視鏡原理、適應症與病理狀態、入口位置與概念流程。
 - `assets/theme2/archive_original/`：主題二早期版本，保留作為設計修訂紀錄。
+- `assets/theme2/visual_guides/`：本次新增的手術目的、術前評估、適應情況與治療界線、內視鏡檢查範圍衛教圖，以及相關寫實醫學插圖素材。
 - `source/`：原始衛教簡報。
+
+## 本次新增視覺化衛教圖
+
+- `01_surgery_purpose.png`：手術目的
+- `03_preoperative_assessment.png`：手術前評估
+- `04_indications_and_boundaries.png`：適應情況與治療界線
+- `05_arthroscopy_scope.png`：內視鏡的檢查範圍
+
+對應的可編輯 HTML 原始檔位於 `source/visual_guides/`；本次整理使用的原始簡報則為 `source/顳顎關節內視鏡手術｜視覺化改版01–12.pptx`。
 
 ## 視覺標準
 
